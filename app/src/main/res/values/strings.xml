@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Meditation guide</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Meditation stage</string>
+    <string name="details_fragment_label">Stage overview</string>
+
+    <!-- Constant strings used for item in stage list/detail view -->
+    <string name="main_goal_placeholder">Stage goal:</string>
+    <string name="skill_placeholder">Key skills:</string>
+    <string name="mastery_placeholder">Mastery condition:</string>
+
+    <!-- Textholder strings used for item in stage list/detail view -->
+    <!--stage list-->
+    <string name="title_placeholder">Stage number</string>
+    <string name="stages_mastery_placeholder">Stage goal text</string>
+    <!--detail view-->
+    <string name="stages_detail_text">Overcome subtle dullness and increase the power of mindfulness.</string>
+    <string name="skill_detail_text">Cultivating even stronger and more continuous introspective awareness to detect and correct for subtle dullness. Learning a new body scanning technique to help you increase the power of your mindfulness.</string>
+    <string name="mastery_detail_text">Don’t wait until you’ve mastered Stage One to begin Stage Two practices. As soon as you’ve succeeded in counting ten breaths and can follow several breaths before your mind wanders, start doing the Stage Two practices.  If you find your mind becoming agitated, wandering again almost immediately after you return to the meditation object, or wandering for very long periods of time before you realize it, go back to Stage One. Work through the Four-Step Transition and then count the breaths at the nose.</string>
+
+    <!--Stages strings-->
+    <string name="stage_1">Stage One</string>
+    <string name="stage_2">Stage Two</string>
+    <string name="stage_3">Stage Three</string>
+    <string name="stage_4">Stage Four</string>
+    <string name="stage_5">Stage Five</string>
+    <string name="stage_6">Stage Six</string>
+    <string name="stage_7">Stage Seven</string>
+    <string name="stage_8">Stage Eight</string>
+    <string name="stage_9">Stage Nine</string>
+    <string name="stage_10">Stage Ten</string>
+    <string name="tennis">Additionals</string>
+
+    <!--Stage goals-->
+    <string name="stage1_goal_text">Develop a consistent daily meditation practice.</string>
+    <string name="stage2_goal_text">Shorten the periods of mind-wandering and extend the periods of sustained attention to the meditation object.</string>
+    <string name="stage3_goal_text">Overcome forgetting and falling asleep.</string>
+    <string name="stage4_goal_text">Overcome gross distraction and strong dullness.</string>
+    <string name="stage5_goal_text">Overcome subtle dullness and increase the power of mindfulness.</string>
+    <string name="stage6_goal_text">Subdue subtle distractions and develop metacognitive introspective awareness.</string>
+    <string name="stage7_goal_text">Effortlessly sustained exclusive attention and powerful mindfulness.</string>
+    <string name="stage8_goal_text">Complete pacification of the senses and the full arising of meditative joy.</string>
+    <string name="stage9_goal_text">The maturation of meditative joy, producing tranquility and equanimity.</string>
+    <string name="stage10_goal_text">The qualities of śamatha persist after you rise from the cushion.</string>
+    <string name="stage11_goal_text">Here is some Tennis news!</string>
+
+    <!--Stage key skills-->
+    <string name="skill1_detail_text">Creating practice routines, setting specific practice goals, generating strong motivation, cultivating discipline and diligence.</string>
+    <string name="skill2_detail_text">Reinforcing spontaneous introspective awareness and learning to sustain attention on the meditation object. Spontaneous introspective awareness is the “aha” moment when you suddenly realize there’s a disconnect between what you wanted to do (watch the breath) and what you’re actually doing (thinking about something else). Appreciating this moment causes it to happen faster and faster, so the periods of mind-wandering get shorter and shorter.</string>
+    <string name="skill3_detail_text">Use the techniques of following the breath and connecting to extend the periods of uninterrupted attention, and become familiar with how forgetting happens. Cultivate introspective awareness through the practices of labeling and checking in. These techniques allow you to catch distractions before they lead to forgetting.</string>
+    <string name="skill4_detail_text">Developing continuous introspective awareness allows you to make corrections before subtle distractions become gross distractions, and before subtle dullness becomes strong dullness. Learning to work with pain. Purifying the mind of past trauma and unwholesome conditioning.</string>
+    <string name="skill5_detail_text">Cultivating even stronger and more continuous introspective awareness to detect and correct for subtle dullness. Learning a new body scanning technique to help you increase the power of your mindfulness.</string>
+    <string name="skill6_detail_text">Defining your scope of attention more precisely than before, and ignoring everything outside that scope until subtle distractions fade away. Developing a much more refined and selective awareness of the mind itself, called metacognitive introspective awareness. You will also use a method called “experiencing the whole body with the breath” to further subdue potential distractions.</string>
+    <string name="skill7_detail_text">Practicing patiently and diligently will bring you to the threshold of effortlessness. It will get you past all the boredom and doubt, as well as the bizarre sensations and movements. Purposely relaxing your effort from time to time will let you know when effort and vigilance are no longer necessary. Then you can work on letting go of the need to be in control. Various Insight and jhāna practices add variety at this Stage.</string>
+    <string name="skill8_detail_text">Practicing effortless attention and introspective awareness will naturally lead to continued unification, pacification of the senses, and the arising of meditative joy. Jhāna and other Insight practices are very productive as part of this process.</string>
+    <string name="skill9_detail_text">Becoming familiar with meditative joy through continued practice until the excitement fades, replaced by tranquility and equanimity.</string>
+    <string name="skill10_detail_text">Because the characteristics of samatha never disappear entirely, whenever you sit on the cushion, you quickly regain a fully developed meditative state.</string>
+
+    <!--Mastery condition-->
+    <string name="mastery1_detail_text">Don’t wait until you’ve mastered Stage One to begin Stage Two practices. As soon as you’ve succeeded in counting ten breaths and can follow several breaths before your mind wanders, start doing the Stage Two practices.  If you find your mind becoming agitated, wandering again almost immediately after you return to the meditation object, or wandering for very long periods of time before you realize it, go back to Stage One. Work through the Four-Step Transition and then count the breaths at the nose.</string>
+    <string name="mastery2_detail_text">You can begin doing Stage Three practices whenever you have periods of 10 to 15 minutes without mind-wandering, even though forgetting still occurs and you may not yet have mastered Stages One and Two. When mind-wandering does occur, respond as in Stage Two.</string>
+    <string name="mastery3_detail_text">When mind-wandering rarely if ever happens and you have extended intervals between episodes of forgetting, begin doing Stage Four practices. When forgetting does happen resume Stage Three practices. </string>
+    <string name="mastery4_detail_text">Begin Stage Five practices whenever you have extended periods without gross distraction and strong dullness. When they return, just go back to doing the Stage Four practices for a while.</string>
+    <string name="mastery5_detail_text">Don’t wait until you have completely mastered Stage Five. Begin Stage Six practices whenever you have extended periods of high alertness and powerful mindfulness. If these fade, resume Stage Five practices until it happens again.</string>
+    <string name="mastery6_detail_text">Even before you have mastered Stage Six, when you have an extended period without subtle distraction and can sustain a high level metacognitive awareness, begin to work with Stage Seven practices.</string>
+    <string name="mastery7_detail_text">Whenever you have extended periods of effortlessness, even if they can’t be sustained for the entire sit, start experimenting with Stage Eight practices. If dullness or distraction begin to arise, resume the exercise of vigilance and effort until you effortlessness returns.
+When you reach the end of Stage Seven, there’s enough unification to produce the effortlessness of mental pliancy, which always comes with some meditative joy. Joy seems to be the “natural” state of a unified mind, and the more unified a mind is, the more joyful it is. Joy is also the “glue” that helps keep a mind unified.
+Experiencing joy while breathing in, he trains himself.
+Experiencing joy while breathing out, he trains himself.
+Experiencing pleasure while breathing in, he trains himself.  Experiencing pleasure while breathing out, he trains himself.</string>
+    <string name="mastery8_detail_text">Whenever you experience extended periods of physical pliancy and Grade V pīti, go ahead and experiment with Stage Nine practices.</string>
+    <string name="mastery9_detail_text">Consistently evoking mental and physical pliancy, accompanied by profound tranquility and equanimity.</string>
+    <string name="mastery10_detail_text">The qualities of samatha persist for many hours after you rise from the cushion.</string>
+
+</resources>
